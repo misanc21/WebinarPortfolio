@@ -1,2 +1,0 @@
-# WebinarPortfolio
-Created with CodeSandbox
